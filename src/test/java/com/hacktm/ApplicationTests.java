@@ -1,4 +1,4 @@
-package com.hacktm8;
+package com.hacktm;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
